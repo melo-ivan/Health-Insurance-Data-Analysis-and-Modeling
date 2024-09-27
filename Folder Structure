@@ -1,0 +1,10 @@
+/insurance_analysis
+    ├── data
+    │   └── insurance.csv         # Conjunto de dados de seguros
+    ├── notebooks
+    │   └── exploratory_analysis.ipynb # Jupyter Notebook para EDA
+    ├── src
+    │   └── analysis.py           # Script principal de análise
+    ├── requirements.txt           # Dependências do projeto
+    ├── README.md                  # Documentação do projeto
+    └── LICENSE                    # Licença do projeto
